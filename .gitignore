@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+backend/.chroma/
+backend/uploads/
+__pycache__/
+*.pyc
+dist/
+node_modules/
